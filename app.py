@@ -12,8 +12,8 @@ st.image('''https://jasonbarryteam.com/wp-content/uploads/2021/07/The-Bradbury-E
 
 st.header('Model of housing prices to predict median house values in California',divider = True)
 
-st.subheader('''User must enter given values to predict prices:
-['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']''')
+#st.subheader('''User must enter given values to predict prices:
+#['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']''')
 
 st.sidebar.title('Select House Features 🏡')
 
